@@ -1,0 +1,32 @@
+Objectives:
+
+    1.Design and Develop Microservice: Develop a Python-based microservice using serverless architecture for a practical use case.
+    2.Containerize Microservice: Containerize the microservice using Docker to ensure portability and ease of deployment.
+    3.Deploy Microservice to a Free Tier Cloud Provider: Deploy the containerized microservice to a free tier cloud provider like AWS Free Tier or Google Cloud Free Tier.
+    4.Implement DynamoDB Integration: Integrate DynamoDB as the database for storing data, considering the free tier limits.
+    5.Establish CI/CD Pipeline: Create a CI/CD pipeline using free tools like GitHub Actions or GitLab CI to automate testing, building, and deployment processes.
+
+Tasks:
+
+    1.Choose Use Case: Select a practical use case for your microservice that would benefit developers or users globally.
+    2.Develop Microservice: Write Python code to implement the microservice functionality, ensuring it's well-documented and follows best practices.
+    3.Containerize Microservice: Create a Dockerfile to package the microservice into a container image, ensuring it's optimized for performance and resource usage.
+    4.Deploy to Free Tier Cloud Provider: Use the free tier services of AWS or Google Cloud Platform to deploy the microservice, ensuring it remains within the usage limits to avoid charges.
+    5.Integrate DynamoDB: Implement functionality to interact with DynamoDB for data storage and retrieval, optimizing usage to stay within the free tier limits.
+    6.Set up CI/CD Pipeline: Configure a CI/CD pipeline using free tools like GitHub Actions or GitLab CI to automate testing, building Docker image, and deploying the microservice.
+
+Bonus Tasks (Optional):
+
+    Write comprehensive documentation and create tutorials to help users understand and utilize your microservice effectively.
+    Foster a community around your project by encouraging contributions from other developers and providing support through forums or chat channels.
+    Explore additional free services or tools that can enhance the functionality or development workflow of your microservice.
+    Continuously improve and iterate upon your microservice based on community feedback and emerging technologies.
+
+Resources:
+
+    AWS Free Tier: https://aws.amazon.com/free/
+    Google Cloud Free Tier: https://cloud.google.com/free
+    Docker Documentation: https://docs.docker.com/
+    DynamoDB Documentation: https://aws.amazon.com/documentation/dynamodb/
+    GitHub Actions Documentation: https://docs.github.com/en/actions
+    GitLab CI Documentation: https://docs.gitlab.com/ee/ci/
